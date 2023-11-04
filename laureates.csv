@@ -1,8 +1,8 @@
-name,surname,born,registered 
-Rashmi Bhagya, Jayawikrama , 2006 , 2023-06-30 
-Bhagya Hansani, Karunathilake , 2006 , 2023-06-30 
-Kavindu Theekshana , Ranathunga , 2006 , 2023-06-30 
-Chethana Ayodhya , Null , 2006 , 2023-06-30 
-Sahan Umesh , Warnasooriya  , 2006 , 2023-06-30 
-Bhawantha Anuhas , Wijesooriya , 2006 , 2023-06-30
-Siluna randiv , Wanasinghe , 2006 , 2023-06-30 
+name,surname,born,registered , category 
+Rashmi Bhagya, Jayawikrama , 2006 , 2023-06-30 , 3D Modeling
+Bhagya Hansani, Karunathilake , 2006 , 2023-06-30 , 3D Modeling
+Kavindu Theekshana , Ranathunga , 2006 , 2023-06-30 , 3D Modeling
+Chethana Ayodhya , Null , 2006 , 2023-06-30 , 3D Modeling
+Sahan Umesh , Warnasooriya  , 2006 , 2023-06-30 , 3D Modeling
+Bhawantha Anuhas , Wijesooriya , 2006 , 2023-06-30 , 3D Modeling
+Siluna randiv , Wanasinghe , 2006 , 2023-06-30 , 3D Modeling
